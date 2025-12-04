@@ -2,7 +2,7 @@
 
  class Config
  {
-     static public $mvc_bd_hostname = "localhost";
+     static public $mvc_bd_hostname = "mysql-forbids.alwaysdata.net";
      static public $mvc_bd_nombre   = "forbids_alimentos12025";
      static public $mvc_bd_usuario  = "forbids";
      static public $mvc_bd_clave    = "grupo1DAW";
