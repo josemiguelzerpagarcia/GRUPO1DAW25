@@ -3,9 +3,9 @@
  class Config
  {
      static public $mvc_bd_hostname = "localhost";
-     static public $mvc_bd_nombre   = "alimentos2020";
-     static public $mvc_bd_usuario  = "myjesus95";
-     static public $mvc_bd_clave    = "Q1GuQDIX";
+     static public $mvc_bd_nombre   = "forbids_alimentos12025";
+     static public $mvc_bd_usuario  = "forbids";
+     static public $mvc_bd_clave    = "88!GQs.J4vtQ5Qq";
      static public $mvc_vis_css     = "estilo.css";
  }
 ?>
