@@ -1,0 +1,64 @@
+INSTALACIÓN Y DESPLIEGUE – INTEGRANTE 2 - Álvaro
+
+1. CONEXIÓN AL HOSTING POR SSH
+---------------------------------
+Abrimos la terminal y nos conectamos a nuestro hosting AlwaysData:
+
+ssh forbids@ssh.alwaysdata.com
+
+- Nos pide la contraseña del usuario de AlwaysData.
+- Una vez conectado, ya estarremos en el directorio home: 
+  forbids@ssh1:~$
+
+2. CREAR CARPETA PARA EEL PROYECTO
+---------------------------------
+Crearemos la carpeta donde se desplegará el proyecto:
+
+mkdir alimentos2025
+cd alimentos2025
+
+3. CLONAR EL REPOSITORIO GITHUB
+---------------------------------
+Clonar el repositorio del grupo dentro de la carpeta del proyecto:
+
+git clone https://github.com/josemiguelzerpagarcia/GRUPO1DAW25.git .
+
+4. CREAMOS LA BASE DE DATOS Y LA TABLA ALIMENTOS
+---------------------------------
+Creamos la base de datos a mano en always data
+
+- Entramos al phpMyAdmin de nuestra base de datos desde el propio enlace de alwaysdata
+
+-- Creamos la tabla alimentos
+CREATE TABLE `alimentos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(255) NOT NULL,
+  `energia` decimal(10,0) NOT NULL,
+  `proteina` decimal(10,0) NOT NULL,
+  `hidratocarbono` decimal(10,0) NOT NULL,
+  `fibra` decimal(10,0) NOT NULL,
+  `grasatotal` decimal(10,0) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- Verificamos que la tabla fue creada visualmente en phpmyadmin
+
+5. CONFIGURAMOS EL ARCHIVO Config.php
+---------------------------------
+El Integrante 3 (Juan Carlos) ha modificado el archivo app/Config.php con los datos de conexión a la base de datos para poder conectarnos:
+
+$db_host = "mysql-forbids.alwaysdata.net";
+$db_name = "forbids_alimentos12025";
+$db_user = "forbids";
+$db_pass = "grupo1DAW";
+
+6. VERIFICAMOS EL FUNCIONAMIENTO DE LA WEB
+---------------------------------
+Al principio tuvimos algunos errores, pero los solucionamos y ya pudimos conseguir desplegarla correctamente.
+
+Abrimos el navegador y entramos a la URL:
+
+https://forbids.alwaysdata.net/alimentos12025/GRUPO1DAW25/web/
+
+- La aplicación debería cargarse correctamente y conectarse a la base de datos.
+- En caso de error, tendriamos que revisar los datos en Config.php, pero de momento ya va todo bien
