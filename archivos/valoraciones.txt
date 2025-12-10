@@ -1,0 +1,25 @@
+Jose Miguel Zerpa García
+
+Con relación al proyecto, ha sido interesante aprender los funcionamientos de git y github, opino que es algo realmente útil para trabajar en equipo, y aun programando solo, el sistema de control de versiones que tiene git lo considero algo esencial a la hora de modificar el código. Aunque ya lo hemos hecho antes, me sigue interesando lo relacionado con el hosting, esta vez hemos usado otro proveedor llamado alwaysdata, que también provee una serie de funciones útiles de manera gratuita.
+Por último, si debo de hablar de mis compañeros, han sido muy organizados a la hora de programar todas las tareas además de que tenemos una comunicación muy fluida entre el grupo entero.
+
+Juan Carlos Perea Velasco
+
+En cuanto al proyecto, me ha parecido muy interesante aprender más a fondo cómo funciona Git y GitHub. Creo que son herramientas súper útiles tanto para trabajar en grupo como cuando programas solo, sobre todo por el control de versiones, que te permite cambiar cosas sin miedo a romper todo. 
+Respecto al hosting, aunque ya lo habíamos usado otras veces, en este proyecto probamos AlwaysData y la verdad es que nos ha ido muy bien. Para ser gratuito tiene bastantes opciones útiles y nos ha facilitado mucho el despliegue. Y sobre mis compañeros, solo puedo decir cosas buenas: han estado muy organizados con las tareas, siempre sabíamos quién hacía qué y cuándo, y la comunicación en el grupo ha sido buenísima, hablábamos prácticamente	 todos los días y todo ha salido rodado. 
+
+Álvaro Muñoz Fernández
+
+Participar en esta práctica me ha resultado muy útil. He podido aprender y poner en práctica la gestión de un proyecto web completo, y también trabajar con bases de datos en un hosting real. Lo que más me ha gustado ha sido poder realizar yo el despliegue del proyecto ya que me ha permitido entender cómo se lleva un proyecto desde un repositorio hasta el servidor vía repositorio git para ser accesible por cualquier usuario.
+
+También me ha ayudado a comprender lo importante que es la coordinación en el equipo, ya que cada integrante ha tenido responsabilidades diferentes y dependíamos unos de otros para que la aplicación funcionara correctamente. La parte que más problemas ha dado fue que la base de datos se configurara correctamente y que la aplicación pudiera conectarse sin errores, pero una vez resuelto, estuvo muy bien ver la web funcionando en línea.
+
+En general, creo que ha sido un buen tabajo que me ha permitido mejorar mis habilidades y mi capacidad de trabajar en equipo.
+
+
+Hafdala Mehdi Sidi
+
+En este proyecto de despliegue de la aplicación MVC de alimentos en alwaysdata el trabajo en equipo ha sido clave para avanzar de forma organizada y cumplir los objetivos marcados por el profesor. La división por roles (administración del repositorio, base de datos y despliegue, y configuración del controlador y hosting) ha ayudado a que cada integrante se responsabilice de una parte concreta del flujo de desarrollo, desde el código hasta la publicación en producción.​
+A nivel personal, la práctica ha servido para afianzar el uso de Git y GitHub en un entorno más realista, trabajando con ramas, commits y coordinación entre varias personas, así como para comprender mejor el papel de un hosting como alwaysdata en el despliegue de una aplicación PHP MVC con base de datos MySQL. También ha sido útil para practicar la conexión entre la capa de modelo, la configuración de la base de datos y el controlador frontal, entendiendo cómo cada cambio en Config.php y en la estructura de la tabla afecta al funcionamiento global de la aplicación.​
+Considero que el grupo ha colaborado de forma responsable, cumpliendo con las tareas asignadas y comunicando los cambios necesarios. En conjunto, la experiencia ha sido positiva porque no solo se ha conseguido publicar la aplicación en el hosting, sino que también ha permitido ganar confianza en el trabajo colaborativo y en el proceso completo de despliegue de un proyecto web en producción.​
+
