@@ -1,0 +1,33 @@
+📅 27 de noviembre de 2025
+José Miguel Zerpa García
+🔹 Initial commit — Creación inicial del repositorio con la estructura base.
+🔹 Subida de archivos app/ — Agregada carpeta app con los scripts iniciales.
+🔹 Merge branch 'main' — Unificación de ramas del repositorio.
+
+Juankapy
+🔹 Actualizar tareas y responsabilidades de los miembros del equipo — Modificación del README.md añadiendo detalle de roles y tareas del grupo.
+🔹 Actualice los nombres de los miembros del equipo en README.md — Corrección y actualización de nombres del equipo.
+🔹 Actualizando el README con tareas las tareas de los Integrantes — Versión consolidada del README con información completa. (Commits verificados)
+
+📅 4 de diciembre de 2025
+Alvaroooom
+🔹 Config.php realizado y subido colaborativamente — Añadido archivo de configuración principal en PHP. (Commit verificado)
+🔹 Delete app/Config.php para subirlo yo — Eliminación de archivo previo para evitar conflictos antes de nueva subida. (Verificado)
+🔹 Subida del Model.php, página desplegada — Incluido modelo principal y confirmada la publicación del sitio.
+🔹 Delete app/Model.php — Eliminación del archivo antiguo antes de actualización.
+🔹 Delete hola.txt prueba — Limpieza de archivos de prueba. (Verificado)
+🔹 Pruebas — Commit destinado a testear subidas y ajustes locales.
+
+José Miguel Zerpa García
+🔹 modificacion del config.php (x3 commits) — Ajustes sucesivos en la configuración del proyecto (config.php).
+🔹 subida del archivo web/ — Añadido contenido de la carpeta web (posiblemente frontend o recursos públicos).
+
+📅 5 de diciembre de 2025
+Alvaroooom
+🔹 Subida de carpeta de archivos, con el instalacion.txt terminado — Incluye la documentación de instalación terminada y subida de materiales complementarios.
+
+📅 10 de diciembre de 2025
+Hafdala Mehdi Sidi (hafdalamehdisidi)
+🔹 Añadir un pequeño script de JS y imágenes, subida de la parte de front-end — Se incorporan scripts JavaScript, imágenes y los primeros elementos visuales del interfaz.
+🔹 Añadir valoración al archivo de valoraciones — Actualización del sistema de valoraciones (probablemente una funcionalidad en PHP o JS para registrar puntuaciones).
+🔹 Subir el archivo de histórico.
